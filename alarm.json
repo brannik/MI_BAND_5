@@ -1,0 +1,33 @@
+{
+    "Alarm": {
+        "Text": {
+          "TopLeftX": 0,
+          "TopLeftY": -100,
+          "BottomRightX": 0,
+          "BottomRightY": 0,
+          "Alignment": "TopLeft",
+          "SpacingX": 0,
+          "SpacingY": 0,
+          "ImageIndex": 0,
+          "ImagesCount": 10
+        },
+        "DelimiterImageIndex": 0,
+        "ImageOn": {
+          "X": 48,
+          "Y": 2,
+          "ImageIndex": 104
+        },
+        "ImageOff": {
+          "X": -2,
+          "Y": 0,
+          "ImageIndex": 44
+        },
+        "ImageNoAlarm": {
+          "X": -2,
+          "Y": 0,
+          "ImageIndex": 44
+        },
+        "UnknownTF6": 1,
+        "UnknownTF7": 1
+      }
+}

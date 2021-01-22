@@ -1,0 +1,25 @@
+{
+    "Status": {
+        "DoNotDisturb": {
+          "Coordinates": {
+            "X": 9,
+            "Y": 25
+          },
+          "ImageIndexOn": 26
+        },
+        "Lock": {
+          "Coordinates": {
+            "X": 31,
+            "Y": 25
+          },
+          "ImageIndexOff": 27
+        },
+        "Bluetooth": {
+          "Coordinates": {
+            "X": 53,
+            "Y": 25
+          },
+          "ImageIndexOff": 28
+        }
+      }
+}

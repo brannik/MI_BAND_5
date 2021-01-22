@@ -1,0 +1,17 @@
+{
+    "Other": {
+        "Animation": [
+          {
+            "AnimationImages": {
+              "X": 55,
+              "Y": 138,
+              "ImageIndex": 68,
+              "ImagesCount": 10
+            },
+            "Speed": 120,
+            "RepeatCount": 255,
+            "UnknownTF4": 0
+          }
+        ]
+      }
+}

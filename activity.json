@@ -1,0 +1,75 @@
+{
+    "Activity": {
+        "Steps": {
+          "Number": {
+            "TopLeftX": 19,
+            "TopLeftY": 276,
+            "BottomRightX": 43,
+            "BottomRightY": 296,
+            "Alignment": "TopLeft",
+            "SpacingX": -1,
+            "SpacingY": 0,
+            "ImageIndex": 86,
+            "ImagesCount": 10
+          }
+        },
+        "Calories": {
+          "Text": {
+            "TopLeftX": 63,
+            "TopLeftY": 276,
+            "BottomRightX": 109,
+            "BottomRightY": 296,
+            "Alignment": "TopRight",
+            "SpacingX": -1,
+            "SpacingY": 0,
+            "ImageIndex": 86,
+            "ImagesCount": 10
+          },
+          "SuffixImageIndex": 14
+        },
+        "Pulse": {
+          "Number": {
+            "TopLeftX": 20,
+            "TopLeftY": 259,
+            "BottomRightX": 26,
+            "BottomRightY": 275,
+            "Alignment": "TopLeft",
+            "SpacingX": -1,
+            "SpacingY": 0,
+            "ImageIndex": 86,
+            "ImagesCount": 10
+          },
+          "NoDataImageIndex": 44
+        },
+        "Distance": {
+          "Number": {
+            "TopLeftX": 65,
+            "TopLeftY": 259,
+            "BottomRightX": 109,
+            "BottomRightY": 277,
+            "Alignment": "TopRight",
+            "SpacingX": -1,
+            "SpacingY": 0,
+            "ImageIndex": 86,
+            "ImagesCount": 10
+          },
+          "DecimalPointImageIndex": 45,
+          "KmSuffixImageIndex": 14,
+          "MilesSuffixImageIndex": 14
+        },
+        "PAI": {
+            "Number": {
+              "TopLeftX": 28,
+              "TopLeftY": 279,
+              "BottomRightX": 126,
+              "BottomRightY": 291,
+              "Alignment": "TopLeft",
+              "SpacingX": 2,
+              "SpacingY": 0,
+              "ImageIndex": 75,
+              "ImagesCount": 10
+            }
+          },
+        "UnknownV7": 0
+      }
+}

@@ -1,0 +1,24 @@
+{
+    "Battery": {
+        "BatteryText": {
+          "Coordinates": {
+            "TopLeftX": 55,
+            "TopLeftY": 0,
+            "BottomRightX": 103,
+            "BottomRightY": 17,
+            "Alignment": "TopRight",
+            "SpacingX": -1,
+            "SpacingY": 0,
+            "ImageIndex": 86,
+            "ImagesCount": 10
+          },
+          "SuffixImageIndex": 49
+        },
+        "BatteryIcon": {
+          "X": 107,
+          "Y": 4,
+          "ImageIndex": 50,
+          "ImagesCount": 10
+        }
+      }
+}

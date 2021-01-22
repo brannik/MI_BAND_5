@@ -1,0 +1,33 @@
+{
+    "Time": {
+        "Hours": {
+          "Tens": {
+            "X": 21,
+            "Y": 52,
+            "ImageIndex": 4,
+            "ImagesCount": 10
+          },
+          "Ones": {
+            "X": 61,
+            "Y": 52,
+            "ImageIndex": 4,
+            "ImagesCount": 10
+          }
+        },
+        "Minutes": {
+          "Tens": {
+            "X": 21,
+            "Y": 112,
+            "ImageIndex": 31,
+            "ImagesCount": 10
+          },
+          "Ones": {
+            "X": 61,
+            "Y": 112,
+            "ImageIndex": 31,
+            "ImagesCount": 10
+          }
+        },
+        "UnknownV11": 0
+      }
+}

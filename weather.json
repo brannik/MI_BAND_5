@@ -1,0 +1,85 @@
+{
+    "Weather": {
+        "Icon": {
+          "CustomIcon": {
+            "X": 90,
+            "Y": 250,
+            "ImageIndex": 55,
+            "ImagesCount": 26
+          },
+          "Unknown3": {
+            "X": 90,
+            "Y": 250
+          },
+          "Unknown4": {
+            "X": 90,
+            "Y": 250
+          }
+        },
+        "Temperature": {
+          "Current": {
+            "Number": {
+              "TopLeftX": 0,
+              "TopLeftY": 260,
+              "BottomRightX": 30,
+              "BottomRightY": 270,
+              "Alignment": "TopRight",
+              "SpacingX": 0,
+              "SpacingY": 0,
+              "ImageIndex": 4,
+              "ImagesCount": 10
+            },
+            "MinusImageIndex": 81,
+            "DegreesImageIndex": 82
+          },
+          "Today": {
+            "Separate": {
+              "Day": {
+                "Number": {
+                  "TopLeftX": 0,
+                  "TopLeftY": 248,
+                  "BottomRightX": 70,
+                  "BottomRightY": 258,
+                  "Alignment": "TopRight",
+                  "SpacingX": 1,
+                  "SpacingY": 0,
+                  "ImageIndex": 16,
+                  "ImagesCount": 10
+                },
+                "MinusImageIndex": 81,
+                "DegreesImageIndex": 82
+              },
+              "Night": {
+                "Number": {
+                  "TopLeftX": 0,
+                  "TopLeftY": 272,
+                  "BottomRightX": 70,
+                  "BottomRightY": 282,
+                  "Alignment": "TopRight",
+                  "SpacingX": 1,
+                  "SpacingY": 0,
+                  "ImageIndex": 16,
+                  "ImagesCount": 10
+                },
+                "MinusImageIndex": 81,
+                "DegreesImageIndex": 82
+              }
+            }
+          }
+        },
+        "Humidity": {
+            "Text": {
+              "TopLeftX": 0,
+              "TopLeftY": 28,
+              "BottomRightX": 130,
+              "BottomRightY": 0,
+              "Alignment": "Center",
+              "SpacingX": 1,
+              "SpacingY": 0,
+              "ImageIndex": 11,
+              "ImagesCount": 10
+            },
+            "SuffixImageIndex": 98
+          }
+      }
+}
